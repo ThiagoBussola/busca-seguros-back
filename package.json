@@ -16,8 +16,8 @@
     "url": "https://github.com/ThiagoBussola/hackathon-inga-seguros.git"
   },
   "engines": {
-    "npm": ">=14.17.4",
-    "node": ">=8.0.0"
+    "npm": ">=8.0.0",
+    "node": ">=14.17.4"
   },
   "keywords": [
     "REST",
